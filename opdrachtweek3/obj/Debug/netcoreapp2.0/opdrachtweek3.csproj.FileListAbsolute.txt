@@ -1,0 +1,10 @@
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\bin\Debug\netcoreapp2.0\opdrachtweek3.deps.json
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\bin\Debug\netcoreapp2.0\opdrachtweek3.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\bin\Debug\netcoreapp2.0\opdrachtweek3.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\bin\Debug\netcoreapp2.0\opdrachtweek3.dll
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\bin\Debug\netcoreapp2.0\opdrachtweek3.pdb
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\obj\Debug\netcoreapp2.0\opdrachtweek3.csproj.CoreCompileInputs.cache
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\obj\Debug\netcoreapp2.0\opdrachtweek3.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\obj\Debug\netcoreapp2.0\opdrachtweek3.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\obj\Debug\netcoreapp2.0\opdrachtweek3.dll
+D:\OneDrive - Arteveldehogeschool\CSSE\week03\opdrachtweek3\obj\Debug\netcoreapp2.0\opdrachtweek3.pdb
