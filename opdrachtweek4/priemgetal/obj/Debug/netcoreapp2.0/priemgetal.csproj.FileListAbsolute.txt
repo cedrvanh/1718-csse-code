@@ -1,0 +1,10 @@
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/bin/Debug/netcoreapp2.0/priemgetal.deps.json
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/bin/Debug/netcoreapp2.0/priemgetal.runtimeconfig.json
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/bin/Debug/netcoreapp2.0/priemgetal.runtimeconfig.dev.json
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/bin/Debug/netcoreapp2.0/priemgetal.dll
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/bin/Debug/netcoreapp2.0/priemgetal.pdb
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.csproj.CoreCompileInputs.cache
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.AssemblyInfoInputs.cache
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.AssemblyInfo.cs
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.dll
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.pdb

@@ -1,0 +1,10 @@
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/fibonacci.deps.json
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/fibonacci.runtimeconfig.json
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/fibonacci.runtimeconfig.dev.json
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/fibonacci.dll
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/bin/Debug/netcoreapp2.0/fibonacci.pdb
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/fibonacci.csproj.CoreCompileInputs.cache
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/fibonacci.AssemblyInfoInputs.cache
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/fibonacci.AssemblyInfo.cs
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/fibonacci.dll
+/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/fibonacci/obj/Debug/netcoreapp2.0/fibonacci.pdb
