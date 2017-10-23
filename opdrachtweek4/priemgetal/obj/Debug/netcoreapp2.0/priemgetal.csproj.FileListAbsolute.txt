@@ -8,3 +8,13 @@
 /Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.AssemblyInfo.cs
 /Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.dll
 /Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/Debug/netcoreapp2.0/priemgetal.pdb
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.deps.json
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.dll
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.pdb
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.csproj.CoreCompileInputs.cache
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.dll
+D:\OneDrive - Arteveldehogeschool\Code\1718-csse-code\opdrachtweek4\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.pdb

@@ -6,22 +6,22 @@ namespace priemgetal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Geef een getal in die kleiner is dan 100");
+            Console.WriteLine("Enter a number");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            if(number > 100) {
-                Console.WriteLine("Geef een getal kleiner dan 100 in.");
+            for (int i = 1; i <= number; i++) {
+                if (number % i == 0 && i != number && i != 1) {
+                    Console.Clear();
+                    string resultMessage = "{0} is not a prime number";
+                    Console.WriteLine(resultMessage, number);
+                    break;
 
-            } else {
-                int i;
-                for(i = 0; i <= number; i++) {
-                    Console.WriteLine(i);
-                }
-                if(number % i == 0){
-                    Console.WriteLine("geen priemgetal");
                 } else {
-                    Console.WriteLine("priemgetal");
-                }
+                    if (i == number) {
+                        string resultMessage = "{0} is a prime number";
+                        Console.WriteLine(resultMessage, number);
+                    }
+                };
             }
         }
     }

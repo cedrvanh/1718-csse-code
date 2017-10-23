@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/cedricvanhaegenberg/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Cedric\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/priemgetal.csproj",
+      "projectUniqueName": "D:\\OneDrive - Arteveldehogeschool\\Code\\1718-csse-code\\opdrachtweek4\\priemgetal\\priemgetal.csproj",
       "projectName": "priemgetal",
-      "projectPath": "/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/priemgetal.csproj",
-      "packagesPath": "/Users/cedricvanhaegenberg/.nuget/packages/",
-      "outputPath": "/Users/cedricvanhaegenberg/Desktop/OneDrive - Arteveldehogeschool/CSSE/opdrachtweek4/priemgetal/obj/",
+      "projectPath": "D:\\OneDrive - Arteveldehogeschool\\Code\\1718-csse-code\\opdrachtweek4\\priemgetal\\priemgetal.csproj",
+      "packagesPath": "C:\\Users\\Cedric\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive - Arteveldehogeschool\\Code\\1718-csse-code\\opdrachtweek4\\priemgetal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/cedricvanhaegenberg/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Cedric\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
